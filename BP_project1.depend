@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1609790167 source:d:\courses\embedded-course\projects\breakin point\bp_project1\admin_page.c
+	"list.h"
+	"StdTypes.h"
+	<stdio.h>
+
+1609619359 source:d:\courses\embedded-course\projects\breakin point\bp_project1\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"StdTypes.h"
+
+1609790911 source:d:\courses\embedded-course\projects\breakin point\bp_project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1609789086 source:d:\courses\embedded-course\projects\breakin point\bp_project1\userpage.c
+	"list.h"
+	"StdTypes.h"
+	<stdio.h>
+
+1609789846 d:\courses\embedded-course\projects\breakin point\bp_project1\list.h
+	"StdTypes.h"
+
+1609250929 d:\courses\embedded-course\projects\breakin point\bp_project1\stdtypes.h
+
+1666115798 source:d:\courses\embedded-course\projects\breakin point\bp_project1\defaultlist.c
+	"list.h"
+
+1609789333 source:d:\courses\embedded-course\projects\breakin point\bp_project1\book_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"StdTypes.h"
+
+1609789846 source:d:\courses\embedded-course\projects\breakin point\bp_project1\user_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"StdTypes.h"
+
